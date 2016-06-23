@@ -2,4 +2,7 @@
 <project basedir="." default="build" name="imres">
 	<target name="build">
 	</target>
+
+	<target name="test">
+	</target>
 </project>
